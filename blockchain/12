@@ -1,0 +1,9 @@
+{
+    "vendedor": "Lupe",
+    "comprador": "Juan",
+    "montoCompra": "200",
+    "prevBlock": {
+        "hash": "9d4d8a462c8335698215761f8abea815",
+        "filename": "11"
+    }
+}
